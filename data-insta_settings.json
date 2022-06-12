@@ -1,0 +1,34 @@
+{
+  "ig_u_rur": null,
+  "ig_www_claim": null,
+  "device_settings": {
+    "dpi": "440dpi",
+    "cpu": "qcom",
+    "model": "Redmi Note 9 Pro",
+    "device": "joyeuse",
+    "resolution": "1080x2400",
+    "app_version": "245.0.0.18.108",
+    "manufacturer": "Xiaomi",
+    "version_code": "314665256",
+    "android_version": 30,
+    "android_release": "11.0.0"
+  },
+  "user_agent": "Instagram 245.0.0.18.108 Android (30/11.0.0; 440dpi; 1080x2400; Xiaomi; Redmi Note 9 Pro; joyeuse; qcom; en_US; 213685357)",
+  "country": "US",
+  "country_code": 1,
+  "locale": "en_US",
+  "timezone_offset": -14400,
+  "uuids": {
+    "phone_id": "88ddee2f-7b36-44b0-907e-5fab5e217e57",
+    "uuid": "3368e34e-c945-40fe-a4c9-293797d80b90",
+    "client_session_id": "3a6a636f-c561-42fe-9917-9cc93d3fbd47",
+    "advertising_id": "b2d65ea5-9606-4bd0-b807-38d8e1f8af2e",
+    "android_device_id": "android-5ff7a95fc9de711e",
+    "request_id": "d387484c-1294-4728-bf04-d27b2e2dc8c7",
+    "tray_session_id": "f0f2645b-f56f-4e03-9826-057d906e9f4e"
+  },
+  "authorization_data": {
+    "ds_user_id": "52203892049",
+    "sessionid": "52203892049%3ARBpUaykqX15pzR%3A4%3AAYd37Sz5lVxyD2b9rxZgndedfmKgIYdhxQ-qHffTOA"
+  }
+}
