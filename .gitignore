@@ -1,0 +1,6 @@
+.idea
+.git
+.venv
+geckodriver.log
+.env
+data/
